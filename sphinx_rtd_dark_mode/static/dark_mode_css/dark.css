@@ -35,6 +35,14 @@ html[data-theme="dark"] .highlight .nv {
   color: #40ffff;
 }
 
+html[data-theme="dark"] .highlight .nf {
+  color: #3569f5;
+}
+
+html[data-theme="dark"] .highlight .nl {
+  color: #003dd0;
+}
+
 html[data-theme="dark"] .highlight .kn,
 html[data-theme="dark"] .highlight .kc,
 html[data-theme="dark"] .highlight .k {
