@@ -20,7 +20,7 @@ html[data-theme="dark"] .section {
 }
 
 html[data-theme="dark"] .highlight {
-  background-color: #17181c;
+  background-color: #ffffff; color: #bfbfbf
 }
 
 html[data-theme="dark"] .highlight .nn {
@@ -41,6 +41,14 @@ html[data-theme="dark"] .highlight .nf {
 
 html[data-theme="dark"] .highlight .nl {
   color: #0043e2;
+}
+
+html[data-theme="dark"] .descname .n {
+  color: #0a44de;
+}
+
+html[data-theme="dark"] .highlight .p {
+  color: #5c7c72
 }
 
 html[data-theme="dark"] .highlight .kn,
